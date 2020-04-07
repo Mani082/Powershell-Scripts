@@ -1,0 +1,3 @@
+pens
+books
+exam pads
